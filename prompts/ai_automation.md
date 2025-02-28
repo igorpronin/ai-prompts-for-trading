@@ -15,3 +15,5 @@ Act as an AI expert specializing in financial risk management automation. Outlin
 #### Algorithmic Trading Bot Development
 
 Act as an AI-driven algorithmic trading specialist. Describe in detail how to design, implement, and optimize a robust AI-based trading bot for short-term market opportunities. Specify the strategy foundations (e.g., momentum, mean reversion, arbitrage), necessary data feeds (price, volume, order book data), choice of AI or machine learning algorithms (reinforcement learning, neural networks), and backtesting methodologies. Clearly outline risk management protocols, performance measurement criteria, and potential ethical or regulatory considerations, ensuring the solution adheres to current industry best practices.
+
+===

@@ -27,3 +27,5 @@ Deliver a detailed, structured report that clearly indicates:
 - Expected risk-reward scenarios for trading setups.
 
 Back your findings with logical explanations and adhere strictly to best practices in technical analysis. Ensure accuracy, objectivity, and relevance to current market conditions.
+
+===
